@@ -1,0 +1,39 @@
+{
+ "summary": {
+  "glance_only": {
+   "STALE_RESTATEMENT_planted": 699,
+   "STALE_RESTATEMENT_caught": 216,
+   "pages": 300,
+   "sentences": 8397,
+   "PAST_FUTURE_planted": 163,
+   "ASOF_LAG_planted": 147,
+   "DATE_MATH_planted": 170,
+   "false_flags": 6,
+   "false_STALE_RESTATEMENT": 6
+  },
+  "grep_old": {
+   "STALE_RESTATEMENT_planted": 699,
+   "STALE_RESTATEMENT_caught": 681,
+   "pages": 300,
+   "sentences": 8397,
+   "PAST_FUTURE_planted": 163,
+   "ASOF_LAG_planted": 147,
+   "false_flags": 792,
+   "false_STALE_RESTATEMENT": 792,
+   "DATE_MATH_planted": 170
+  },
+  "trackcheck": {
+   "STALE_RESTATEMENT_planted": 699,
+   "STALE_RESTATEMENT_caught": 681,
+   "pages": 300,
+   "sentences": 8397,
+   "PAST_FUTURE_planted": 163,
+   "PAST_FUTURE_caught": 163,
+   "ASOF_LAG_planted": 147,
+   "ASOF_LAG_caught": 147,
+   "DATE_MATH_planted": 170,
+   "DATE_MATH_caught": 170
+  }
+ },
+ "false_examples": []
+}

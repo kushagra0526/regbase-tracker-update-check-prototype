@@ -1,0 +1,152 @@
+{
+ "trackers": {
+  "title": "Living regulatory trackers",
+  "verified": "None",
+  "sentences": 32,
+  "findings": [
+   {
+    "kind": "DATE_MATH",
+    "sid": "body#15",
+    "text": "Food chemical \u00b7 State Additive Tracker \u2192 Jul 30 FDA's BHT reopening notice publishes \u2014 comments now due August 31, 2026 \u2014 the operative deadline arrives twenty days after the July 10 announcement; docket FDA-2026-N-2526.",
+    "section": "body",
+    "heading": "Packaging and Labelling Requirements",
+    "quote": "Food chemical \u00b7 State Additive Tracker \u2192 Jul 30 FDA's BHT reopening notice publishes \u2014 comments now due August 31, 2026 \u2014 the operative deadline arrives twenty days after the July 10 announcement; docket FDA-2026-N-2526.",
+    "why": "\"twenty days after July 10, 2026\" is July 30, 2026, but the deadline in this sentence is August 31, 2026 (52 days after)",
+    "fix": "fix the interval or the date"
+   }
+  ]
+ },
+ "sb-253": {
+  "title": "California SB 253 & SB 261 Tracker",
+  "verified": "2026-10-13",
+  "sentences": 277,
+  "findings": [
+   {
+    "kind": "PAST_FUTURE",
+    "sid": "overview#17",
+    "text": "At a July 21, 2026 workshop, CARB proposed requiring only five of the fifteen Scope 3 categories in 2027, named the assurance standards it would accept, and moved to fold insurers in from 2027 \u2014 with five sector-by-sector listening sessions held August 5 through September 2 and a sixth listed as scheduled for September 9.",
+    "section": "overview",
+    "heading": "General Overview",
+    "quote": "At a July 21, 2026 workshop, CARB proposed requiring only five of the fifteen Scope 3 categories in 2027, named the assurance standards it would accept, and moved to fold insurers in from 2027 \u2014 with five sector-by-se...",
+    "why": "says 'scheduled' about September 9, 2026, which is 34 days before the page's last-verified date October 13, 2026",
+    "fix": "say what happened, or mark it unconfirmed with an as-of date"
+   },
+   {
+    "kind": "PAST_FUTURE",
+    "sid": "body#72",
+    "text": "Five of the six have now been held \u2014 data users and public-interest stakeholders (August 5); manufacturing, industrial, fuel and life sciences (August 12); agriculture, food, beverage and forestry (August 19); energy, utilities, transportation, logistics and waste (August 26); and retail, consumer goods, technology and commercial services (September 2) \u2014 with banking, finance and insurance scheduled to close the series on September 9 .",
+    "section": "body",
+    "heading": "The 2027 regime is taking shape \u2014 the July 21 workshop",
+    "quote": "Five of the six have now been held \u2014 data users and public-interest stakeholders (August 5); manufacturing, industrial, fuel and life sciences (August 12); agriculture, food, beverage and forestry (August 19); energy,...",
+    "why": "says 'scheduled' about September 9, 2026, which is 34 days before the page's last-verified date October 13, 2026",
+    "fix": "say what happened, or mark it unconfirmed with an as-of date"
+   },
+   {
+    "kind": "ASOF_LAG",
+    "sid": "body#50",
+    "text": "The materials are listed on CARB\u2019s newer Corporate Climate Data and Resources pages, not on the older program, news, and resources URLs, which as of September 15 still do not list them.",
+    "section": "body",
+    "heading": "The trigger event happened: the 15-day changes, and what they do",
+    "quote": "The materials are listed on CARB\u2019s newer Corporate Climate Data and Resources pages, not on the older program, news, and resources URLs, which as of September 15 still do not list them.",
+    "why": "claim is as of September 15, 2026, 28 days before the page's last-verified October 13, 2026",
+    "fix": "re-check this source or show its own date next to the claim"
+   },
+   {
+    "kind": "ASOF_LAG",
+    "sid": "body#71",
+    "text": "All of this is proposal-stage \u2014 as of September 15, CARB\u2019s Regulation page lists only the Initial Regulation, and the Subsequent Regulation has not been formally proposed \u2014 but the workshop set its schedule: the staff proposal (staff report, economic analysis, and full draft regulatory text) publishes this fall for a 45-day public comment period , with Board consideration targeted by the end of the year, and six sector-specific listening sessions set for August 5 through September 9, 2026 before it lands.",
+    "section": "body",
+    "heading": "The 2027 regime is taking shape \u2014 the July 21 workshop",
+    "quote": "All of this is proposal-stage \u2014 as of September 15, CARB\u2019s Regulation page lists only the Initial Regulation, and the Subsequent Regulation has not been formally proposed \u2014 but the workshop set its schedule: the staff...",
+    "why": "claim is as of September 15, 2026, 28 days before the page's last-verified October 13, 2026",
+    "fix": "re-check this source or show its own date next to the claim"
+   },
+   {
+    "kind": "ASOF_LAG",
+    "sid": "body#73",
+    "text": "As of September 15, CARB\u2019s meetings page still lists that sixth session under \u201cUpcoming Events\u201d with no recording posted, so this page has not confirmed that it took place as scheduled.",
+    "section": "body",
+    "heading": "The 2027 regime is taking shape \u2014 the July 21 workshop",
+    "quote": "As of September 15, CARB\u2019s meetings page still lists that sixth session under \u201cUpcoming Events\u201d with no recording posted, so this page has not confirmed that it took place as scheduled.",
+    "why": "claim is as of September 15, 2026, 28 days before the page's last-verified October 13, 2026",
+    "fix": "re-check this source or show its own date next to the claim"
+   },
+   {
+    "kind": "ASOF_LAG",
+    "sid": "body#102",
+    "text": "Oral argument was held January 9, 2026 \u2014 with the panel probing whether emissions reporting is factual operational data or compelled ideological speech \u2014 and a ruling is awaited: as of September 15, no decision appears on the CourtListener mirror of the Ninth Circuit docket, whose most recent entry is a June 26, 2026 filing (the mirror was last updated August 7; the court\u2019s own docket was not checked).",
+    "section": "body",
+    "heading": "Ongoing litigation",
+    "quote": "Oral argument was held January 9, 2026 \u2014 with the panel probing whether emissions reporting is factual operational data or compelled ideological speech \u2014 and a ruling is awaited: as of September 15, no decision appear...",
+    "why": "claim is as of September 15, 2026, 28 days before the page's last-verified October 13, 2026",
+    "fix": "re-check this source or show its own date next to the claim"
+   }
+  ]
+ },
+ "gras-rule": {
+  "title": "FDA GRAS Reform Tracker",
+  "verified": "2026-09-23",
+  "sentences": 165,
+  "findings": []
+ },
+ "pfas-reporting-rule": {
+  "title": "TSCA PFAS Reporting Rule Tracker",
+  "verified": "2026-09-23",
+  "sentences": 113,
+  "findings": [
+   {
+    "kind": "DATE_MATH",
+    "sid": "history#1",
+    "text": "The submission period has now been rescheduled on three occasions: from the original November 12, 2024 commencement, to July 11, 2025 (September 2024 direct final rule, citing delays in the reporting software), to April 13, 2026 (May 2025 interim final rule, which also established end dates of October 13, 2026, and April 13, 2027 for small article-importer-only reporters), to the present structure \u2014 60 days after the effective date of the substantive final rule, backstopped by January 31, 2027 (April 13, 2026 final rule).",
+    "section": "history",
+    "heading": "Procedural history \u2014 and its significance",
+    "quote": "The submission period has now been rescheduled on three occasions: from the original November 12, 2024 commencement, to July 11, 2025 (September 2024 direct final rule, citing delays in the reporting software), to Apr...",
+    "why": "\"60 days after January 31, 2027\" is April 1, 2027; the date it describes is April 13, 2027 (72 days after)",
+    "fix": "fix the interval or the date"
+   }
+  ]
+ },
+ "state-pfas-tracker": {
+  "title": "State PFAS Consumer Product & Food Law Tracker",
+  "verified": "2026-09-23",
+  "sentences": 181,
+  "findings": [
+   {
+    "kind": "DATE_MATH",
+    "sid": "body#12",
+    "text": "Stat. \u00a7 116.943, amended 2025 and June 2026 All products with intentionally added PFAS: initial reports were due Sep 15, 2026 ; extended reports due Dec 14, 2026 (extension requests closed Aug 16; denied requesters report 30 days after the denial notice); updates, when required, due each Feb 1 ; $800 one-time fee.",
+    "section": "body",
+    "heading": "The three all-products laws",
+    "quote": "Stat. \u00a7 116.943, amended 2025 and June 2026 All products with intentionally added PFAS: initial reports were due Sep 15, 2026 ; extended reports due Dec 14, 2026 (extension requests closed Aug 16; denied requesters re...",
+    "why": "\"30 days after February 1, 2026\" is March 3, 2026; the date it describes is August 16, 2026 (196 days after)",
+    "fix": "fix the interval or the date"
+   },
+   {
+    "kind": "PAST_FUTURE",
+    "sid": "body#36",
+    "text": "DEQ penalties up to $500/day) Cosmetics, class-wide, Jan 1, 2027 ; children\u2019s-product reporting includes PFOA-related substances (first reports due Jan 31, 2026) Foodware ban in force; cosmetics ban 5 months out.",
+    "section": "body",
+    "heading": "Category bans and disclosure laws \u2014 the other 15 states",
+    "quote": "DEQ penalties up to $500/day) Cosmetics, class-wide, Jan 1, 2027 ; children\u2019s-product reporting includes PFOA-related substances (first reports due Jan 31, 2026) Foodware ban in force; cosmetics ban 5 months out.",
+    "why": "says 'due' about January 31, 2026, which is 235 days before the page's last-verified date September 23, 2026",
+    "fix": "say what happened, or mark it unconfirmed with an as-of date"
+   },
+   {
+    "kind": "ASOF_LAG",
+    "sid": "body#16",
+    "text": "State Law(s) What\u2019s covered Key dates Status (as of August 10, 2026) California AB 1200 (2021), AB 652 (2021), AB 2771 (2022), AB 1817 (2022), AB 2515 (2024), AB 347 (2024, enforcement) Plant-fiber food packaging ban + cookware disclosure ( 2023\u201324 ); juvenile products ( Jul 2023 ); cosmetics, class-wide ( Jan 1, 2025 ); textiles at 100 ppm TOF ( Jan 1, 2025 , dropping to 50 ppm Jan 1, 2027 ); menstrual products ( Jan 1, 2025 ) Severe-wet outdoor apparel ban Jan 1, 2028 ;",
+    "section": "body",
+    "heading": "Category bans and disclosure laws \u2014 the other 15 states",
+    "quote": "State Law(s) What\u2019s covered Key dates Status (as of August 10, 2026) California AB 1200 (2021), AB 652 (2021), AB 2771 (2022), AB 1817 (2022), AB 2515 (2024), AB 347 (2024, enforcement) Plant-fiber food packaging ban ...",
+    "why": "claim is as of August 10, 2026, 44 days before the page's last-verified September 23, 2026",
+    "fix": "re-check this source or show its own date next to the claim"
+   }
+  ]
+ },
+ "state-food-additive-tracker": {
+  "title": "State Food Additive & Dye Law Tracker",
+  "verified": "2026-09-16",
+  "sentences": 257,
+  "findings": []
+ }
+}

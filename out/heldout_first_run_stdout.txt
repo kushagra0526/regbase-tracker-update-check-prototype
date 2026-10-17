@@ -1,0 +1,7 @@
+held-out: 500 pages
+  glance_only  STALE 337/1217  DATE_ 0/245  PAST_ 0/238  ASOF_ 0/249  false flags 4 (of 14070 sentences)
+  grep_old     STALE 1130/1217  DATE_ 0/245  PAST_ 0/238  ASOF_ 0/249  false flags 1330 (of 14070 sentences)
+  trackcheck   STALE 831/1217  DATE_ 245/245  PAST_ 238/238  ASOF_ 249/249  false flags 1 (of 14070 sentences)
+
+trackcheck false flags (first 40):
+   (100189, 'STALE_RESTATEMENT', 'Comment deadline | Oct. 9, 2026', 'deadline is November 8, 2026 since September 5, 2026 (the Department of Toxic Substances notice of September 5, 2026); this sentence still says October 9, 2026')

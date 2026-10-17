@@ -1,0 +1,48 @@
+{
+ "summary": {
+  "glance_only": {
+   "STALE_RESTATEMENT_planted": 1217,
+   "STALE_RESTATEMENT_caught": 337,
+   "DATE_MATH_planted": 245,
+   "ASOF_LAG_planted": 249,
+   "pages": 500,
+   "sentences": 14070,
+   "PAST_FUTURE_planted": 238,
+   "false_flags": 4,
+   "false_STALE_RESTATEMENT": 4
+  },
+  "grep_old": {
+   "STALE_RESTATEMENT_planted": 1217,
+   "STALE_RESTATEMENT_caught": 1130,
+   "DATE_MATH_planted": 245,
+   "ASOF_LAG_planted": 249,
+   "false_flags": 1330,
+   "false_STALE_RESTATEMENT": 1330,
+   "pages": 500,
+   "sentences": 14070,
+   "PAST_FUTURE_planted": 238
+  },
+  "trackcheck": {
+   "STALE_RESTATEMENT_planted": 1217,
+   "STALE_RESTATEMENT_caught": 831,
+   "DATE_MATH_planted": 245,
+   "DATE_MATH_caught": 245,
+   "ASOF_LAG_planted": 249,
+   "ASOF_LAG_caught": 249,
+   "pages": 500,
+   "sentences": 14070,
+   "PAST_FUTURE_planted": 238,
+   "PAST_FUTURE_caught": 238,
+   "false_flags": 1,
+   "false_STALE_RESTATEMENT": 1
+  }
+ },
+ "false_examples": [
+  [
+   100189,
+   "STALE_RESTATEMENT",
+   "Comment deadline | Oct. 9, 2026",
+   "deadline is November 8, 2026 since September 5, 2026 (the Department of Toxic Substances notice of September 5, 2026); this sentence still says October 9, 2026"
+  ]
+ ]
+}
